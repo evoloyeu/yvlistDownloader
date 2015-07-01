@@ -8,7 +8,7 @@
 import scrapy
 
 
-class PlaylistdownloaderItem(scrapy.Item):
+class SptubeItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass

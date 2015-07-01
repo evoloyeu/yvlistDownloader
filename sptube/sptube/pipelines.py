@@ -6,6 +6,6 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class PlaylistdownloaderPipeline(object):
+class SptubePipeline(object):
     def process_item(self, item, spider):
         return item
